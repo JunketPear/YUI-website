@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "YUI动漫社",
   description: "YUI动漫社",
+  head: [
+    ['link',{ rel: 'icon', href: 'http://pic.nwafu.xyz/images/0000000000000000000000003b8a09ad0000000000000000000000003b8a09ad/1760937426486-bi77cilb-img_mgyoodto_fne3bt.png'}],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -25,4 +28,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/JunketPear/YUI-website/' }
     ]
   }
+  
 })
