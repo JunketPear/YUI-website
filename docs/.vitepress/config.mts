@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/',
   title: "YUI动漫社",
   description: "YUI动漫社",
   head: [
-    ['link',{ rel: 'icon', href: '../pubilc/logo.png'}],
+    ['link',{ rel: 'icon', href: '/logo.png'}],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
