@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "YUI动漫社"
-  text: "YUI动漫社"
-  tagline: My great project tagline
+  text: "没想好写什么"
+  tagline: 没想好写什么
+  image:
+    src: http://pic.nwafu.xyz/images/0000000000000000000000003b8a09ad0000000000000000000000003b8a09ad/1760937426486-bi77cilb-img_mgyoodto_fne3bt.png
+    alt: logo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 没想好放什么
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 没想好写什么
+    details: 没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么
+  - title: 没想好写什么
+    details: 没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么
+  - title: 没想好写什么
+    details: 没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么没想好写什么
 ---
 
