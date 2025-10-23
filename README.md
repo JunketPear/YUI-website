@@ -11,3 +11,6 @@
 YUI动漫社技术组：
 - 要乐鲤（组长）：3200184728@qq.com or 动漫社大群找我。
 - 酪鸭梨（仓库所有者）：Junket_Pear@outlook.com or 动漫社大群找我。
+
+## 赞助我们
+- 爱发电：https://afdian.com/a/yuiwebsite
